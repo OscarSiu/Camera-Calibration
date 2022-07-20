@@ -9,3 +9,6 @@ Work flow for find_pixel.py
 7. Click the middle button of your mouse to reload the original image
 8. Measure the distance by going through step 4-6 again
 9. Press Enter to end the process and destroy window
+
+Run cameraCalibration.py to obtain camera matrix.
+Then run initial_perspective_calibration.py to find GSD 
